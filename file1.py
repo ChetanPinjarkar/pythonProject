@@ -1,4 +1,4 @@
 #Test the changes
 import json
 import boto3
-print("Welcome to git")
+print("Welcome to Git")
